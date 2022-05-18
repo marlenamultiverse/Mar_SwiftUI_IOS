@@ -18,7 +18,7 @@ Daily quote viewer that provides inspirational quotes
 
 ## Screenshots
 
-![App Screenshot]https://drive.google.com/file/d/1kKjF7wL8BKNNWYi7oB3cKxOqQCkW9Tfq/view?usp=sharing
+https://drive.google.com/file/d/1kKjF7wL8BKNNWYi7oB3cKxOqQCkW9Tfq/view?usp=sharing
 
 # Mar_SwiftUI_IOS
 SwiftUI App Dev
